@@ -13,3 +13,21 @@ body {
   margin: 20px;
 }
 
+.one {
+  background-color: #d95980;
+}
+.three {
+  background-color: #819ff9;
+}
+.two {
+  background-color: #63aac0;
+}
+.four {
+  background-color: #f99b45;
+}
+.gameflash {
+  background-color: white;
+}
+.userflash {
+  background-color: green;
+}
